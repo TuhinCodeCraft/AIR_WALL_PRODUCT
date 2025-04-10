@@ -96,7 +96,7 @@ const PricingList = () => {
             onClick={() =>
               item.price
                 ? handlePayment(item)
-                : (window.location.href = import.meta.env.VITE_CONTACT_EMAIL_ID)
+                : (window.location.href = "mailto:contact@jsmastery.pro")
             }
             white={!!item.price}
           >
