@@ -60,7 +60,7 @@ export const navigation = [
   {
     id: "4",
     title: "docs",
-    url: "http://localhost:3000/",
+    url: "https://air-wall-docs-vut8.vercel.app/",
   },
   // {
   //   id: "5",
